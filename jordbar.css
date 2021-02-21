@@ -1,0 +1,70 @@
+body{
+ position: relative;
+  margin: 0;
+  padding-bottom: 6rem;
+  min-height: 100%;
+}
+.navbar-custom{
+background-color: #ff3233;
+color: #000;
+}
+
+nav a{
+color: Black;
+}
+
+
+
+nav a:hover{
+color: White;
+}
+
+.container{
+margin-top: 30px;
+}
+
+img{
+width:100%;
+margin: 0;
+}
+
+.navbar-brand{
+font-family: "Eras Medium ITC";
+font-size: 30px;
+}
+
+
+.hambur {
+    width: 30px;
+    height: 2px;
+    background-color: black;
+    margin: 5px 0;
+}
+
+h3{
+color: #555;
+font-size: 20px;
+}
+
+footer{
+text-align: center;
+font-size: 14px;
+background-color: LightGrey;
+margin: 0px;
+padding: 10px;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+}
+
+.map{
+width:100%;
+height:100%;
+}
+
+
+html {
+  height: 100%;
+}
